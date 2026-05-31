@@ -40,7 +40,7 @@ When I’m not coding, you'll probably find me drawing, learning something new, 
 	<tr>
 		<td><b>🗄️ Databases</b></td>
 		<td>
-      <img src="https://img.shields.io/badge/-SQL-336791?style=flat-square"/>
+      		<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
 			<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 			<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 			<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -67,7 +67,7 @@ When I’m not coding, you'll probably find me drawing, learning something new, 
 			<p>Cooperative fund management system for a 30+ member organization handling capital, club funds, and loan tracking with role-based workflows.</p>
 			<p>
 				<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-				<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
+				<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/>
 				<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
 			</p>
 		</td>
@@ -75,9 +75,9 @@ When I’m not coding, you'll probably find me drawing, learning something new, 
 			<h3>CDS Inventory System (Internship)</h3>
 			<p>Internship-built inventory and procurement system for managing item tracking, purchase requests, and supply processes.</p>
 			<p>
-				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-				<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
 				<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+				<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
+				<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
 			</p>
 		</td>
 	</tr>
